@@ -1,0 +1,55 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/PantherAutomation/src/Main.java" timestamp="1553131000233">
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/PantherAutomation/pom.xml" timestamp="1553133303432">
+        <mark key="[" line="10" column="3" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/PantherAutomation/src/main/java/testsheepnz/panther/selenium/utilities/SeleniumTest.java" timestamp="1553132558143">
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="9" column="8" />
+        <mark key="." line="9" column="8" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/PantherAutomation/src/main/java/utilities/SeleniumTest.java" timestamp="1553131443850">
+        <mark key="[" line="2" column="25" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>WebDriver d</text>
+      </register>
+      <register name="-" type="4">
+        <text>WebDriver d</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
